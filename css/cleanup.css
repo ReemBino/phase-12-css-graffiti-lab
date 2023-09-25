@@ -1,1 +1,47 @@
-/* write your override styles here */
+.tag-1 {
+    margin: 0;
+    padding: 0;
+}
+
+{
+    background-color: red;
+}
+{
+    background-color: red;
+}
+.placeholder-rule {
+    color: blue;
+}
+{
+    font-size: 16px;
+    margin: 10px;
+  }
+  {
+    background-color: red;
+    color: white;
+  }
+  {
+    font-size: 16px;
+    margin: 10px;
+    padding: 5px;
+  }{
+    font-size: 16px;
+    margin: 10px;
+    padding: 5px;
+  }{
+    font-size: 16px;
+    margin: 10px;
+    padding: 5px;
+  }{
+    font-size: 16px;
+    margin: 10px;
+    padding: 5px;
+  }{
+    font-size: 16px;
+    margin: 10px;
+    padding: 5px;
+  }{
+    font-size: 16px;
+    margin: 10px;
+    padding: 5px;
+  }
